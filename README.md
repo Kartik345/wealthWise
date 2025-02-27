@@ -1,5 +1,9 @@
 # Finance Dashboard
 
+[WealthWise Demo](./demo.mov)
+
+![Photo](./demo1.png)
+![Photo](./demo2.png)
 ## Overview
 Welcome to my Finance Dashboard project! This tool allows users to track their income and expenses effortlessly, helping them stay on top of their financial health. The dashboard features an intuitive and sleek interface, interactive charts, and easy navigation for a seamless experience.
 
@@ -28,4 +32,4 @@ To get started with the Finance Dashboard locally, follow these steps:
    ```npm run dev```
 5. Open the browser and go to the local server link
    
-![WealthWise Demo](./videos/demo.mp4)
+
