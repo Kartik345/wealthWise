@@ -1,4 +1,4 @@
-# Finance Dashboard
+# WealthWise [Finance Dashboard]
 
 [WealthWise Demo](./demo.mov)
 
